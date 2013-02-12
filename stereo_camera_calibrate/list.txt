@@ -1,0 +1,2 @@
+imagenes/left05.ppm
+imagenes/right05.ppm
